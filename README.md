@@ -16,7 +16,7 @@ Welcome to my **Personal Portfolio**! This is a website where I showcase my skil
 - **Experience**: My professional and educational background.
 - **Contact Form**: For getting in touch with me easily.
   
-## 📸 Screenshots        
+## 📸 Screenshots                    
 
 ![WhatsApp Image 2024-09-16 at 13 17 02_3764da7e](https://github.com/user-attachments/assets/7fbec61a-4876-4c6d-881d-1db62863942b)
 
