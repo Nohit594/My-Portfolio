@@ -42,4 +42,4 @@ Check out the live version of my portfolio : https://peppy-flan-0ddcb0.netlify.a
 
 - **Nohit Singh**  
   - GitHub: [Nohit594](https://github.com/Nohit594)
-  - LinkedIn: [Nohit Singh](your-linkedin-url)
+  - LinkedIn: [Nohit Singh](https://www.linkedin.com/in/nohit-singh-13b3b5195/)
